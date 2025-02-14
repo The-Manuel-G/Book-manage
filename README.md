@@ -31,8 +31,8 @@ La arquitectura Onion promueve la **inversión de dependencias** y la **separaci
    - Se comunica con la API expuesta por **Book-manage**.
 
 6. **Library-Test (Pruebas)**  
-   - Contiene **pruebas unitarias** (por ejemplo, `ExternalApiServiceTests.cs`) y **pruebas de integración** (`BooksControllerTest.cs`).  
-   - Utiliza xUnit (o MSTest/NUnit), Moq y/o MockHttp para simular dependencias.
+   - Contiene **pruebas unitarias** ( `ExternalApiServiceTests.cs`) y **pruebas de integración** (`BooksControllerTest.cs`).  
+  
 
 ---
 
