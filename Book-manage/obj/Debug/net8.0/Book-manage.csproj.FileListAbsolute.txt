@@ -1,0 +1,122 @@
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\appsettings.json
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.staticwebassets.endpoints.json
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.exe
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.deps.json
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.runtimeconfig.json
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.pdb
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\scopedcss\bundle\Book-manage.styles.css
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets\msbuild.Book-manage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets\msbuild.Book-manage.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets\msbuild.build.Book-manage.props
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book-manage.props
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book-manage.props
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-man.16C39FB7.Up2Date
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\refint\Book-manage.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.pdb
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.genruntimeconfig.cache
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\obj\Debug\net8.0\ref\Book-manage.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\InfrastructureLayer.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\InfrastructureLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\System.Net.Http.Json.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\Book-manage\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\appsettings.json
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.staticwebassets.endpoints.json
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.exe
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.deps.json
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.runtimeconfig.json
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Book-manage.pdb
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\System.Net.Http.Json.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\InfrastructureLayer.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\InfrastructureLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\scopedcss\bundle\Book-manage.styles.css
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets\msbuild.Book-manage.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets\msbuild.Book-manage.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets\msbuild.build.Book-manage.props
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book-manage.props
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book-manage.props
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-man.16C39FB7.Up2Date
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\refint\Book-manage.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.pdb
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\Book-manage.genruntimeconfig.cache
+C:\Users\ariel\OneDrive\Desktop\Book-manage\Book-manage\obj\Debug\net8.0\ref\Book-manage.dll

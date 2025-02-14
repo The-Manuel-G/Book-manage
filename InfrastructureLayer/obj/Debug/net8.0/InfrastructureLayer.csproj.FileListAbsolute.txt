@@ -1,0 +1,34 @@
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.deps.json
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\obj\Debug\net8.0\Infrastr.B5BC0072.Up2Date
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\obj\Debug\net8.0\refint\InfrastructureLayer.dll
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\c# avan\Book-manage\InfrastructureLayer\obj\Debug\net8.0\ref\InfrastructureLayer.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.deps.json
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\bin\Debug\net8.0\InfrastructureLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\bin\Debug\net8.0\ApplicationLayer.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\bin\Debug\net8.0\ApplicationLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.AssemblyInfoInputs.cache
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.AssemblyInfo.cs
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\obj\Debug\net8.0\Infrastr.B5BC0072.Up2Date
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\obj\Debug\net8.0\refint\InfrastructureLayer.dll
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\obj\Debug\net8.0\InfrastructureLayer.pdb
+C:\Users\ariel\OneDrive\Desktop\Book-manage\InfrastructureLayer\obj\Debug\net8.0\ref\InfrastructureLayer.dll
