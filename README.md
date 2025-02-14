@@ -76,9 +76,10 @@ La arquitectura Onion promueve la **inversión de dependencias** y la **separaci
 ---
 
 ## Cómo Ejecutar el Proyecto
+ **Nota: Si estas Utilizando Visual studio 2022 solo debes de reconstruir la solucion  y verificar que el proyecto de cliente y el de presentacion esten como proyectos de inicio**
 
 1. **Backend (Book-manage)**  
-   - Abre la solución en Visual Studio (o VS Code).  
+   - Abre la solución en VS Code).  
    - Selecciona **Book-manage** como proyecto de inicio.  
    - Ejecuta (F5 o `dotnet run` en la carpeta del proyecto).  
    - La API estará disponible en `http://localhost:<puerto>` (o `https://` si usas SSL).
