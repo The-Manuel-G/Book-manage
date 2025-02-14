@@ -69,7 +69,7 @@ const BookForm: React.FC = () => {
                     {/* Título */}
                     <div>
                         <label className="block text-gray-700 font-medium mb-1">
-                            Título
+                            Titulo
                         </label>
                         <input
                             type="text"
