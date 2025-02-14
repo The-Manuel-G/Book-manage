@@ -74,7 +74,27 @@ La arquitectura Onion promueve la **inversión de dependencias** y la **separaci
   - **MockHttp**: Simula respuestas HTTP en pruebas unitarias, evitando llamadas reales a servicios externos.
 
 ---
+## Capturas de Pantalla
 
+### Swagger (Documentación de la API)
+![Swagger Screenshot](./docs/images/api.png)
+![Swagger Screenshot](./docs/images/api2.png)
+
+### Front-end: Lista de Libros
+![Front-end Book List busqueda](./docs/images/busqueda.png)
+![Front-end Book List busqueda ](./docs/images/busqueda2.png)
+
+### Front-end: Busquedas 
+
+![Front-end Book List](./docs/images/busqueda.png)
+
+### Front-end: Detalle del Libro
+![Front-end Book Detail](./docs/images/detail.png)
+
+### Front-end: fromulario 
+![Front-end Book Detail](./docs/images/form.png)
+
+---
 ## Cómo Ejecutar el Proyecto
  **Nota: Si estas Utilizando Visual studio 2022 solo debes de reconstruir la solucion  y verificar que el proyecto de cliente y el de presentacion esten como proyectos de inicio**
 
@@ -116,18 +136,6 @@ Book-manage.sln ├─ ApplicationLayer │ ├─ Interfaces │ └─ Service
 
 ---
 
-## Contribución
-
-1. **Clona** o **forkea** el repositorio.  
-2. Crea una **rama** para tus cambios.  
-3. Asegúrate de que todas las **pruebas** pasen (`dotnet test` y/o `npm test`).  
-4. Envía un **Pull Request** para revisión.
-
----
-
-## Licencia
-
-Este proyecto se distribuye bajo los términos de la **[MIT License](https://opensource.org/licenses/MIT)**, lo que significa que puedes usarlo libremente con muy pocas restricciones.  
 
 ---
 
