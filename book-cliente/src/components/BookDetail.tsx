@@ -126,7 +126,7 @@ const BookDetail: React.FC = () => {
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
                     <div className="p-4 border rounded-lg">
-                        <p className="text-gray-600 text-sm">Numero de páginas</p>
+                        <p className="text-gray-600 text-sm">Numero de paginas</p>
                         <p className="text-lg font-medium text-gray-800">
                             {book.pageCount}
                         </p>
