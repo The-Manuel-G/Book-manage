@@ -27,10 +27,10 @@ const BookList: React.FC = () => {
         try {
             const data = await getBooks();
             setBooks(data);
-            toast.success("Conexión exitosa a la base de datos");
+            toast.success("Conexion exitosa a la base de datos");
         } catch (error) {
             console.error(error);
-            toast.error("Error de conexión a la base de datos");
+            toast.error("Error de conexion a la base de datos");
         } finally {
             setIsLoading(false);
         }
@@ -60,7 +60,7 @@ const BookList: React.FC = () => {
         if (selectedBookId !== null) {
             try {
                 await deleteBook(selectedBookId);
-                toast.success("Libro eliminado con éxito");
+                toast.success("Libro eliminado con exito");
                 fetchBooks(); // Refresca la lista
             } catch (error) {
                 console.error(error);

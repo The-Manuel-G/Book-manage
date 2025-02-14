@@ -82,7 +82,7 @@ const BookDetail: React.FC = () => {
     if (!book) {
         return (
             <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-br from-blue-100 to-purple-100">
-                <p className="text-xl text-red-600">No se encontró el libro.</p>
+                <p className="text-xl text-red-600">No se encontro el libro.</p>
                 <Link
                     to="/"
                     className="mt-4 px-4 py-2 bg-blue-500 text-white rounded shadow hover:bg-blue-600 transition"
@@ -126,13 +126,13 @@ const BookDetail: React.FC = () => {
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
                     <div className="p-4 border rounded-lg">
-                        <p className="text-gray-600 text-sm">Número de páginas</p>
+                        <p className="text-gray-600 text-sm">Numero de páginas</p>
                         <p className="text-lg font-medium text-gray-800">
                             {book.pageCount}
                         </p>
                     </div>
                     <div className="p-4 border rounded-lg">
-                        <p className="text-gray-600 text-sm">Fecha de Publicación</p>
+                        <p className="text-gray-600 text-sm">Fecha de Publicacion</p>
                         <p className="text-lg font-medium text-gray-800">
                             {new Date(book.publishDate).toLocaleDateString()}
                         </p>

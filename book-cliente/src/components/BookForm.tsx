@@ -46,10 +46,10 @@ const BookForm: React.FC = () => {
         try {
             if (isEditMode && id) {
                 await updateBook(parseInt(id), book);
-                alert("Libro actualizado con éxito");
+                alert("Libro actualizado con exito");
             } else {
                 await createBook(book);
-                alert("Libro creado con éxito");
+                alert("Libro creado con exito");
             }
             navigate("/");
         } catch (error) {
@@ -86,7 +86,7 @@ const BookForm: React.FC = () => {
                     {/* Descripción */}
                     <div>
                         <label className="block text-gray-700 font-medium mb-1">
-                            Descripción
+                            Descripcion
                         </label>
                         <textarea
                             name="description"
@@ -100,7 +100,7 @@ const BookForm: React.FC = () => {
                     {/* Número de Páginas */}
                     <div>
                         <label className="block text-gray-700 font-medium mb-1">
-                            Número de Páginas
+                            Numero de Paginas
                         </label>
                         <input
                             type="number"
@@ -131,7 +131,7 @@ const BookForm: React.FC = () => {
                     {/* Fecha de Publicación */}
                     <div>
                         <label className="block text-gray-700 font-medium mb-1">
-                            Fecha de Publicación
+                            Fecha de Publicacion
                         </label>
                         <input
                             type="date"
