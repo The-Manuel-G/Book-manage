@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Book-manage\\Book-manage.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Book-Cliente\\book-cliente.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
